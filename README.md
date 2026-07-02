@@ -79,3 +79,15 @@ On my own store this setup recovered Purchase events the browser-only pixel was 
 ---
 
 Built and running on a live store I operate, not a sandbox. If your Meta, GA4 and store numbers don't agree, that gap is measurable and fixable, and I can usually point to the cause before you commit to anything.
+
+## Field guides
+
+Working notes from real audits - the diagnostic checklists I actually use:
+
+- [Meta Pixel not firing? The 6 real causes, in the order to check them](https://rytisbalys.com/meta-pixel-not-firing)
+- [GA4 purchases don't match your backend orders - which number to trust](https://rytisbalys.com/ga4-does-not-match-backend)
+- [Shopify's checkout upgrade silently breaks tracking - what dies and how to migrate](https://rytisbalys.com/shopify-checkout-upgrade-tracking)
+
+## Contact
+
+**Rytis Balys** · [rytisbalys.com](https://rytisbalys.com) · work@rytisbalys.com · Vilnius, Lithuania (EET) · remote, worldwide

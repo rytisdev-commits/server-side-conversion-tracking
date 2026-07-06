@@ -87,6 +87,7 @@ Working notes from real audits - the diagnostic checklists I actually use:
 - [Meta Pixel not firing? The 6 real causes, in the order to check them](https://rytisbalys.com/meta-pixel-not-firing)
 - [GA4 purchases don't match your backend orders - which number to trust](https://rytisbalys.com/ga4-does-not-match-backend)
 - [Shopify's checkout upgrade silently breaks tracking - what dies and how to migrate](https://rytisbalys.com/shopify-checkout-upgrade-tracking)
+- [Google Ads only counts form fills, not real sales - how to import offline conversions](https://rytisbalys.com/offline-conversions-google-ads)
 
 ## Contact
 
